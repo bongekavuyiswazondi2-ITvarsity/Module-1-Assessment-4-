@@ -1,0 +1,25 @@
+#menu-bar a{
+    font-family: Helvetica,sans-serif;
+    text-decoration: none;
+    background-color: aquamarine;
+    padding: 5px;
+}
+#menu-bar a:hover{
+    background-color: aqua;
+    color:#ffffff;
+}
+table{
+    font-family:serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style:none;
+    border-color:darkviolet;
+    
+    
+}
+th{
+    font-weight: 900;
+    background-color:darkviolet; 
+    color:black;
+    
+}
